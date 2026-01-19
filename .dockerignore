@@ -1,0 +1,28 @@
+# Git files
+.git
+.gitignore
+
+# Documentation
+README.md
+DEPLOY_RAILWAY.md
+
+# Database files (will be created in container)
+*.db
+*.db-shm
+*.db-wal
+
+# Build artifacts
+whatsapp-api
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other
+files.zip
